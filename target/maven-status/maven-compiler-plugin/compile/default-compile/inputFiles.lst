@@ -1,0 +1,9 @@
+/home/arthur/IdeaProjects/ecommerce/src/main/java/br/com/alura/ecommerce/Order.java
+/home/arthur/IdeaProjects/ecommerce/src/main/java/br/com/alura/ecommerce/ConsumerFunction.java
+/home/arthur/IdeaProjects/ecommerce/src/main/java/br/com/alura/ecommerce/LogService.java
+/home/arthur/IdeaProjects/ecommerce/src/main/java/br/com/alura/ecommerce/KafkaDispatcher.java
+/home/arthur/IdeaProjects/ecommerce/src/main/java/br/com/alura/ecommerce/NewOrderMain.java
+/home/arthur/IdeaProjects/ecommerce/src/main/java/br/com/alura/ecommerce/FraudDetectorService.java
+/home/arthur/IdeaProjects/ecommerce/src/main/java/br/com/alura/ecommerce/EmailService.java
+/home/arthur/IdeaProjects/ecommerce/src/main/java/br/com/alura/ecommerce/KafkaService.java
+/home/arthur/IdeaProjects/ecommerce/src/main/java/br/com/alura/ecommerce/GsonSerializer.java

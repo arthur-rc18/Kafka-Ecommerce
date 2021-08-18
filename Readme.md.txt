@@ -1,0 +1,1 @@
+Project created using Java with Apache Kafka, GSON and a little bit of SQL.
