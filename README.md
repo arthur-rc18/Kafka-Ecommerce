@@ -1,7 +1,5 @@
 # Kafka-Project
 
-This project was made in the Kafka and messaging platform course, in the Alura course site.
-
 # Description
 
-This is a project of an ecommerce using Java with Apache Kafka, wit Gson and a little bit of SQL. The IDE used was the Intellij.
+This is a project of an ecommerce using Java and Apache Kafka with Gson to serialize objects. The IDE used was the Intellij. This project shows how messages, topics, brokers and partitions works in Kafka. There are functions acting like receivers and responsers, creating and reading messages.
